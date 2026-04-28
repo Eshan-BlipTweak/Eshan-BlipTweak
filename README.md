@@ -1,5 +1,5 @@
 <h1 align="center">Salutations people!👋, I'm Eshan Tiwari aka BlipTweak</h1>
-<h3 align="center">A Final Year Comp Sci. Student at BITS Pilani Dubai Campus, currently navigating the stormy water of tech with a keen fascination for AI, Ml and Cybersec along with Generative AI.</h3>
+<h3 align="center">A Final Year Comp Sci. Student at BITS Pilani Dubai Campus, currently navigating the stormy water of tech with a keen fascination for AI, ML and Cybersec along with Generative AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshan-bliptweak&label=Profile%20views&color=0e75b6&style=flat" alt="eshan-bliptweak" /> </p>
 
