@@ -1,9 +1,9 @@
 <!-- Eshan Tiwari — GitHub Profile README -->
 
-<h1>Eshan Tiwari</h1>
+<h1>Salutations! This is Eshan Tiwari aka BlipTweak</h1>
 <p><code>@Eshan-BlipTweak</code></p>
 
-<p>Final year CS student at BITS Pilani Dubai. Building production AI/ML systems — document intelligence, agentic pipelines, and anomaly detection. Interested in where LLMs meet real operational complexity.</p>
+<p>Navigating the stormy waters of tech with a keen fascination for AI, ML, and Cybersecurity. I've built production document intelligence pipelines and AI agents at ODeX Global, and designed real-time network anomaly detection systems at Underscore Cybersecurity. Generative AI and where LLMs meet real operational complexity is where I live.</p>
 
 <br>
 
@@ -14,10 +14,11 @@
 
 ---
 
-### Currently
+### Experience
 
-- 🔧 **AI/ML Intern @ ODeX Global** — shipping document intelligence pipelines, RAG systems, and a domain AI agent for the shipping industry
-- 🔬 **Research** — causal ML study on perioperative risk across 4,924 liver donors (PSM + SHAP + nested CV), in progress
+- 🔧 **AI/ML Intern @ ODeX Global** *(Sep 2025 – Jan 2026)* — document intelligence pipelines achieving 97% field-level accuracy, RAG systems, LLM fine-tuning, and a shipping-domain AI agent via OpenClaw + OpenRouter
+- 🛡️ **Cybersecurity Intern @ Underscore Cybersecurity** *(Jun–Aug 2024, Jun–Aug 2025)* — real-time network anomaly detection pipeline processing 10k+ flow records per batch; DFT-based periodic anomaly isolation
+- 🔬 **Research** *(ongoing)* — causal ML study on perioperative risk across 4,924 liver donors using PSM, GEE, XGBoost, and SHAP
 - 📬 Reach me at **eshan.tiwari23@gmail.com**
 
 ---
