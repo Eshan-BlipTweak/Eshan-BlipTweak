@@ -1,20 +1,74 @@
-<h1 align="center">Salutations people!👋, I'm Eshan Tiwari aka BlipTweak</h1>
-<h3 align="center">A Final Year Comp Sci. Student at BITS Pilani Dubai Campus, currently navigating the stormy water of tech with a keen fascination for AI, ML and Cybersec along with Generative AI.</h3>
+<!-- Eshan Tiwari — GitHub Profile README -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshan-bliptweak&label=Profile%20views&color=0e75b6&style=flat" alt="eshan-bliptweak" /> </p>
+<h1>Eshan Tiwari</h1>
+<p><code>@Eshan-BlipTweak</code></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshan-bliptweak" alt="eshan-bliptweak" /></a> </p>
+<p>Final year CS student at BITS Pilani Dubai. Building production AI/ML systems — document intelligence, agentic pipelines, and anomaly detection. Interested in where LLMs meet real operational complexity.</p>
 
-- 🔭 I was Interning at **ODeX Global (EA Technologies), Dubai**
+<br>
 
-- 📫 How to reach me **eshan.tiwari23@gmail.com**
+<img src="https://img.shields.io/badge/Status-Open%20to%20full--time%20roles-22c55e?style=flat-square&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Location-Dubai%2C%20UAE-0ea5e9?style=flat-square&labelColor=1a1a1a" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eshan-tiwari-354728274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshan-tiwari-354728274" height="30" width="40" /></a>
-<a href="https://instagram.com/eshan.tiw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eshan.tiw_" height="30" width="40" /></a>
-<a href="https://discord.gg/UYUKXfaB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="UYUKXfaB" height="30" width="40" /></a>
-</p>
+<br><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### Currently
+
+- 🔧 **AI/ML Intern @ ODeX Global** — shipping document intelligence pipelines, RAG systems, and a domain AI agent for the shipping industry
+- 🔬 **Research** — causal ML study on perioperative risk across 4,924 liver donors (PSM + SHAP + nested CV), in progress
+- 📬 Reach me at **eshan.tiwari23@gmail.com**
+
+---
+
+### Focus Areas
+
+`LLM Fine-tuning` &nbsp; `RAG Pipelines` &nbsp; `Document AI` &nbsp; `AI Agents` &nbsp; `Causal Inference` &nbsp; `Anomaly Detection` &nbsp; `Time Series`
+
+---
+
+### Stack
+
+<table>
+  <tr>
+    <td valign="top" width="25%">
+      <b>Languages</b><br><br>
+      Python<br>
+      MySQL<br>
+      JavaScript
+    </td>
+    <td valign="top" width="25%">
+      <b>AI / ML</b><br><br>
+      Hugging Face<br>
+      LangChain<br>
+      OpenCV<br>
+      scikit-learn<br>
+      SHAP
+    </td>
+    <td valign="top" width="25%">
+      <b>Infra & Data</b><br><br>
+      FastAPI<br>
+      Docker<br>
+      PyArrow<br>
+      MongoDB<br>
+      SQLite
+    </td>
+    <td valign="top" width="25%">
+      <b>LLM Tooling</b><br><br>
+      OpenRouter<br>
+      OpenClaw<br>
+      Groq<br>
+      LoRA / QLoRA<br>
+      MinerU
+    </td>
+  </tr>
+</table>
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eshan--tiwari-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eshan-tiwari-354728274)
+[![GitHub](https://img.shields.io/badge/GitHub-Eshan--BlipTweak-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Eshan-BlipTweak)
+[![Email](https://img.shields.io/badge/Email-eshan.tiwari23@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eshan.tiwari23@gmail.com)
